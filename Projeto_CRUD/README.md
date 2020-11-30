@@ -1,1 +1,1 @@
-http://Crud.github.io
+https://brunojc.github.io/Crud/
